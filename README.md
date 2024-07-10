@@ -9,5 +9,6 @@ intern @ Appstract Apps
 
 ## 📊 My GitHub Data:
 <div align="center">
-  <img align="center"  
+  <img align="center"  https://github-readme-stats.vercel.app/api?username=ragul2808&show_icons=true
+
 </div>
