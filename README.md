@@ -6,9 +6,8 @@ intern @ Appstract Apps
 - 💬 Ask me about HTML, CSS, Bootstrap, Javascript, and web development.
 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-p-s2816/)
-
 ## 📊 My GitHub Data:
-<div align="center">
-  <img align="center"  https://github-readme-stats.vercel.app/api?username=ragul2808&show_icons=true
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragul2808&show_icons=true" alt="Ragul's GitHub stats" />
 </div>
